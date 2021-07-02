@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>to.fluent</groupId>
+  <artifactId>heroicons-clojure</artifactId>
+  <packaging>jar</packaging>
+  <version>1.0.1-1</version>
+  <name>heroicons-clojure</name>
+  <description>heroicons for Fulcro and Reagent</description>
+  <url>https://github.com/fluent-development/heroicons-clojure</url>
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <url>https://mit-license.org</url>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/fluent-development/heroicons-clojure</url>
+    <connection>scm:git:git://github.com/fluent-development/heroicons-clojure.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:fluent-development/heroicons-clojure.git</developerConnection>
+    <tag>bce3090954e38b7228236a354e293a2e27296293</tag>
+  </scm>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <testResources>
+      <testResource>
+        <directory>resources</directory>
+      </testResource>
+    </testResources>
+    <directory>target</directory>
+    <outputDirectory>target/classes</outputDirectory>
+  </build>
+  <repositories>
+    <repository>
+      <id>clojars</id>
+      <url>https://repo.clojars.org/</url>
+    </repository>
+  </repositories>
+  <dependencyManagement>
+    <dependencies/>
+  </dependencyManagement>
+</project>

@@ -1,0 +1,6 @@
+(ns to.fluent.heroicons-clojure.fulcro.outline.currency-bangladeshi
+  (:refer-clojure :exclude [currency-bangladeshi]))
+
+(def currency-bangladeshi (com.fulcrologic.fulcro.dom/svg {:xmlns "http://www.w3.org/2000/svg", :fill "none", :viewBox "0 0 24 24", :stroke "currentColor"} (com.fulcrologic.fulcro.dom/path {:strokeLinecap "round", :strokeLinejoin "round", :strokeWidth "2", :d "M11 11V9a2 2 0 00-2-2m2 4v4a2 2 0 104 0v-1m-4-3H9m2 0h4m6 1a9 9 0 11-18 0 9 9 0 0118 0z"})))
+
+(def currency-bangladeshi-icon currency-bangladeshi)
