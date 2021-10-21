@@ -9,7 +9,7 @@ Currently we include Hiccup (for Reagent et. al.) and Fulcro definitions.
 [![Clojars Project](https://img.shields.io/clojars/v/to.fluent/heroicons-clojure.svg)](https://clojars.org/to.fluent/heroicons-clojure)
 
 ```
-to.fluent/heroicons-clojure {:mvn/version "1.0.1-1"}
+to.fluent/heroicons-clojure {:mvn/version "1.0.4"}
 ```
 
 ## Usage

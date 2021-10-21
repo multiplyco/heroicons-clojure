@@ -3,7 +3,7 @@
   <groupId>to.fluent</groupId>
   <artifactId>heroicons-clojure</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.1-1</version>
+  <version>1.0.4</version>
   <name>heroicons-clojure</name>
   <description>heroicons for Fulcro and Reagent</description>
   <url>https://github.com/fluent-development/heroicons-clojure</url>
