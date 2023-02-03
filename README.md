@@ -1,5 +1,7 @@
 # heroicons-clojure
 
+**DEPRECATED: We now recommend that you use the [heroicons npm lib](https://www.npmjs.com/package/heroicons) instead. Thanks for this time if you've been using and liking this lib ☺️**
+
 Converts the full [heroicons](https://heroicons.com) set for easy use from Clojure and ClojureScript as `.cljc` files.
 
 Currently we include Hiccup (for Reagent et. al.) and Fulcro definitions.
